@@ -56,7 +56,7 @@ is 25.
 -}
 -- DON'T FORGET TO SPECIFY THE TYPE IN HERE
 sumOfSquares :: Num a => a -> a -> a
-sumOfSquares x y = x*x+y*y
+sumOfSquares x y = x * x + y * y
 
 {- | Implement a function that returns the last digit of a given number.
 
